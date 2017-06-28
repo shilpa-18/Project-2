@@ -1,1 +1,1 @@
-Project 2 - Sofie's Spa App
+Project 2 - It's Spa Time
